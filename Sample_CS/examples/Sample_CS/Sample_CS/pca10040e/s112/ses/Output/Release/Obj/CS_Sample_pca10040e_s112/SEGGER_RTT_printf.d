@@ -1,7 +1,7 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/SEGGER_RTT_printf.o: \
- D:\Nishant\Samples_Programs\Sample_CS\external\segger_rtt\SEGGER_RTT_printf.c \
- D:\Nishant\Samples_Programs\Sample_CS\external\segger_rtt\SEGGER_RTT.h \
- D:\Nishant\Samples_Programs\Sample_CS\external\segger_rtt\SEGGER_RTT_Conf.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\external\segger_rtt\SEGGER_RTT_printf.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\external\segger_rtt\SEGGER_RTT.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\external\segger_rtt\SEGGER_RTT_Conf.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/libraries/util/app_util_platform.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \

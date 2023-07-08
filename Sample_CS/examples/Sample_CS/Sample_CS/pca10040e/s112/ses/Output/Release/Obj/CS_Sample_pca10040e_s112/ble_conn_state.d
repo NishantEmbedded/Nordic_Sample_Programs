@@ -1,6 +1,6 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/ble_conn_state.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\ble\common\ble_conn_state.c \
- D:\Nishant\Samples_Programs\Sample_CS\components\ble\common\ble_conn_state.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\ble\common\ble_conn_state.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\ble\common\ble_conn_state.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdbool.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \

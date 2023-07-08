@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/ble_lbs.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\ble\ble_services\ble_lbs\ble_lbs.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\ble\ble_services\ble_lbs\ble_lbs.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
@@ -33,7 +33,7 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/ble_lbs.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\ble\ble_services\ble_lbs\ble_lbs.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\ble\ble_services\ble_lbs\ble_lbs.h \
  ../../../../../../components/softdevice/s112/headers/ble.h \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \

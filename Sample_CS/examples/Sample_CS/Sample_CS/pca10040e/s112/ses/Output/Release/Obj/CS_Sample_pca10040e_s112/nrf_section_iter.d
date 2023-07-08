@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/nrf_section_iter.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\experimental_section_vars\nrf_section_iter.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\experimental_section_vars\nrf_section_iter.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
@@ -33,8 +33,8 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/nrf_section_iter.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\experimental_section_vars\nrf_section_iter.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\experimental_section_vars\nrf_section.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\experimental_section_vars\nrf_section_iter.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\experimental_section_vars\nrf_section.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/util/app_util.h

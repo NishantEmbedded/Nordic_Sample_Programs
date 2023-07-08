@@ -1,6 +1,6 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/nrf_drv_uart.o: \
- D:\Nishant\Samples_Programs\Sample_CS\integration\nrfx\legacy\nrf_drv_uart.c \
- D:\Nishant\Samples_Programs\Sample_CS\integration\nrfx\legacy\nrf_drv_uart.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\integration\nrfx\legacy\nrf_drv_uart.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\integration\nrfx\legacy\nrf_drv_uart.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \

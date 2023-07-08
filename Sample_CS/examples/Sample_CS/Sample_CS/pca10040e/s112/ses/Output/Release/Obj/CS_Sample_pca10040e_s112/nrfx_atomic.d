@@ -1,6 +1,6 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/nrfx_atomic.o: \
- D:\Nishant\Samples_Programs\Sample_CS\modules\nrfx\soc\nrfx_atomic.c \
- D:\Nishant\Samples_Programs\Sample_CS\modules\nrfx\soc\nrfx_atomic.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\modules\nrfx\soc\nrfx_atomic.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\modules\nrfx\soc\nrfx_atomic.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
@@ -56,4 +56,4 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/nrfx_atomic.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_sd_def.h \
  ../../../../../../components/softdevice/s112/headers/nrf_soc.h \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- D:\Nishant\Samples_Programs\Sample_CS\modules\nrfx\soc\nrfx_atomic_internal.h
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\modules\nrfx\soc\nrfx_atomic_internal.h

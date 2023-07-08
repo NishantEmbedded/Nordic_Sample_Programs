@@ -1,6 +1,6 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/app_util_platform.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_util_platform.c \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_util_platform.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_util_platform.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_util_platform.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL_ConfDefaults.h \
@@ -25,11 +25,11 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/app_util_platform.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error_soc.h \
  ../../../../../../components/softdevice/s112/headers/nrf_nvic.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\nrf_assert.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_error.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\nrf_assert.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdio.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdbool.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\sdk_errors.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\nordic_common.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_error_weak.h
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\nordic_common.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_error_weak.h

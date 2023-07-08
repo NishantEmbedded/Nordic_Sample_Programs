@@ -1,6 +1,6 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/bsp.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\bsp\bsp.c \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\bsp\bsp.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\bsp\bsp.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\bsp\bsp.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL_ConfDefaults.h \
@@ -61,7 +61,7 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/bsp.o: \
  ../../../../../../components/boards/redicine_compact_nRF52810_board.h \
  ../../../../../../components/libraries/button/app_button.h \
  ../../../../../../components/libraries/util/app_error.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\bsp\bsp_config.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\bsp\bsp_config.h \
  ../../../../../../components/libraries/timer/app_timer.h \
  ../../../../../../components/libraries/log/nrf_log_instance.h \
  ../../../../../../components/libraries/experimental_section_vars/nrf_section.h \

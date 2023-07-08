@@ -1,6 +1,6 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/nrf_ringbuf.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\ringbuf\nrf_ringbuf.c \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\ringbuf\nrf_ringbuf.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\ringbuf\nrf_ringbuf.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\ringbuf\nrf_ringbuf.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL_ConfDefaults.h \

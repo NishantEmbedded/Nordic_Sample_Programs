@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/app_error.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_error.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_error.c \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52810.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -19,9 +19,9 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/app_error.o: \
  ../../../../../../modules/nrfx/mdk/nrf52810_name_change.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdio.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_error.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdbool.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\sdk_errors.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\nordic_common.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_error_weak.h
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\nordic_common.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_error_weak.h

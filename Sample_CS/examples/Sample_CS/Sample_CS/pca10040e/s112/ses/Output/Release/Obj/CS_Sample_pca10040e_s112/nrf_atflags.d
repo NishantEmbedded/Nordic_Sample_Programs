@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/nrf_atflags.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\atomic_flags\nrf_atflags.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\atomic_flags\nrf_atflags.c \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52810.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -34,4 +34,4 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/nrf_atflags.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\atomic_flags\nrf_atflags.h
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\atomic_flags\nrf_atflags.h

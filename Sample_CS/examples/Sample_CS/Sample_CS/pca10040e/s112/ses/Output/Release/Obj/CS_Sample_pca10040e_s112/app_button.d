@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/app_button.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\button\app_button.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\button\app_button.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
@@ -33,7 +33,7 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/app_button.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\button\app_button.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\button\app_button.h \
  ../../../../../../components/libraries/util/app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \

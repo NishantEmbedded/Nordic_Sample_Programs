@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/ble_advertising.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\ble\ble_advertising\ble_advertising.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\ble\ble_advertising\ble_advertising.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
@@ -45,7 +45,7 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/ble_advertising.o: \
  ../../../../../../components/softdevice/s112/headers/ble_gatt.h \
  ../../../../../../components/softdevice/s112/headers/ble_gattc.h \
  ../../../../../../components/softdevice/s112/headers/ble_gatts.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\ble\ble_advertising\ble_advertising.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\ble\ble_advertising\ble_advertising.h \
  ../../../../../../components/softdevice/s112/headers/ble_gap.h \
  ../../../../../../components/softdevice/s112/headers/ble_gattc.h \
  ../../../../../../components/softdevice/s112/headers/nrf_soc.h \

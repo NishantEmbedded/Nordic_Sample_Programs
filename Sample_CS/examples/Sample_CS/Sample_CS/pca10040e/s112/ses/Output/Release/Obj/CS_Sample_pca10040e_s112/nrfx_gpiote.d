@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/nrfx_gpiote.o: \
- D:\Nishant\Samples_Programs\Sample_CS\modules\nrfx\drivers\src\nrfx_gpiote.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\modules\nrfx\drivers\src\nrfx_gpiote.c \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \

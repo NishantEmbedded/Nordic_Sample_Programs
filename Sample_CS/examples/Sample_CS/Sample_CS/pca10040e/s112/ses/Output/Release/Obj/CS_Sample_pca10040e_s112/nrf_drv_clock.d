@@ -1,7 +1,7 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/nrf_drv_clock.o: \
- D:\Nishant\Samples_Programs\Sample_CS\integration\nrfx\legacy\nrf_drv_clock.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\integration\nrfx\legacy\nrf_drv_clock.c \
  ../../../../../../components/libraries/util/nordic_common.h \
- D:\Nishant\Samples_Programs\Sample_CS\integration\nrfx\legacy\nrf_drv_clock.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\integration\nrfx\legacy\nrf_drv_clock.h \
  ../../../../../../modules/nrfx/drivers/include/nrfx_clock.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \

@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/ble_conn_params.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\ble\common\ble_conn_params.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\ble\common\ble_conn_params.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
@@ -38,7 +38,7 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/ble_conn_params.o: \
  ../../../../../../components/softdevice/s112/headers/ble_hci.h \
  ../../../../../../components/softdevice/s112/headers/ble_err.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\ble\common\ble_conn_params.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\ble\common\ble_conn_params.h \
  ../../../../../../components/softdevice/s112/headers/ble.h \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/softdevice/s112/headers/ble_err.h \
@@ -49,12 +49,12 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/ble_conn_params.o: \
  ../../../../../../components/softdevice/s112/headers/ble_gatt.h \
  ../../../../../../components/softdevice/s112/headers/ble_gattc.h \
  ../../../../../../components/softdevice/s112/headers/ble_gatts.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\ble\common\ble_srv_common.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\ble\common\ble_srv_common.h \
  ../../../../../../components/softdevice/s112/headers/ble_types.h \
  ../../../../../../components/libraries/util/app_util.h \
  ../../../../../../components/softdevice/s112/headers/ble_gap.h \
  ../../../../../../components/softdevice/s112/headers/ble_gatt.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\ble\common\ble_conn_state.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\ble\common\ble_conn_state.h \
  ../../../../../../components/libraries/atomic/nrf_atomic.h \
  ../../../../../../components/softdevice/common/nrf_sdh_ble.h \
  ../../../../../../components/libraries/experimental_section_vars/nrf_section_iter.h \

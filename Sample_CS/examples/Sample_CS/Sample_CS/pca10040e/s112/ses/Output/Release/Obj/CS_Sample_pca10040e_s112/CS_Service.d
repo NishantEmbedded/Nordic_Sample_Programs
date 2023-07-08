@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/CS_Service.o: \
- D:\Nishant\Samples_Programs\Sample_CS\examples\Sample_CS\Sample_CS\src\CS_Service.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\examples\Sample_CS\Sample_CS\src\CS_Service.c \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/string.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL_ConfDefaults.h \

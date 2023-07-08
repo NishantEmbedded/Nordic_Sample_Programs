@@ -1,6 +1,6 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/app_error_weak.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_error_weak.c \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_error.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_error_weak.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL_ConfDefaults.h \
@@ -21,10 +21,10 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/app_error_weak.o: \
  ../../../../../../modules/nrfx/mdk/nrf52_to_nrf52810.h \
  ../../../../../../modules/nrfx/mdk/nrf52810_name_change.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\sdk_errors.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\nordic_common.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_error_weak.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\nordic_common.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_error_weak.h \
  ../../../../../../components/libraries/log/nrf_log.h \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/string.h \
@@ -61,7 +61,7 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/app_error_weak.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_error_soc.h \
  ../../../../../../components/softdevice/s112/headers/nrf_nvic.h \
  ../../../../../../components/libraries/util/app_error.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\util\app_util_platform.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\util\app_util_platform.h \
  ../../../../../../components/softdevice/s112/headers/nrf_sdm.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error_sdm.h \
  ../../../../../../components/softdevice/s112/headers/nrf_soc.h

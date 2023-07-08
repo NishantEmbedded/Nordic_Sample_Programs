@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/hardfault_implementation.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\hardfault\hardfault_implementation.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\hardfault\hardfault_implementation.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \

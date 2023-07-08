@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/nrf_log_str_formatter.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\log\src\nrf_log_str_formatter.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\log\src\nrf_log_str_formatter.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
@@ -56,7 +56,7 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/nrf_log_str_formatter.o: \
  ../../../../../../components/libraries/log/nrf_log_instance.h \
  ../../../../../../components/libraries/experimental_section_vars/nrf_section.h \
  ../../../../../../components/libraries/util/nordic_common.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\log\src\nrf_log_internal.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\log\src\nrf_log_internal.h \
  ../../../../../../components/libraries/log/nrf_log_types.h \
  ../../../../../../components/libraries/log/nrf_log_ctrl.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/ctype.h

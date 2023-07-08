@@ -1,6 +1,6 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/nrf_memobj.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\memobj\nrf_memobj.c \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\memobj\nrf_memobj.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\memobj\nrf_memobj.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\memobj\nrf_memobj.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL_ConfDefaults.h \

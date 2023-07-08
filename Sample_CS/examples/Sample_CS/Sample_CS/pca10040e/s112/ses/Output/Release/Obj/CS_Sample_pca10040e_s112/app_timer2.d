@@ -1,6 +1,6 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/app_timer2.o: \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\timer\app_timer2.c \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\timer\app_timer.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\timer\app_timer2.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\timer\app_timer.h \
  ../config/sdk_config.h \
  ../../../../../../components/libraries/util/app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
@@ -73,5 +73,5 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/app_timer2.o: \
  ../../../../../../components/libraries/strerror/nrf_strerror.h \
  ../../../../../../components/libraries/log/src/nrf_log_internal.h \
  ../../../../../../components/libraries/log/nrf_log_types.h \
- D:\Nishant\Samples_Programs\Sample_CS\components\libraries\timer\drv_rtc.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\components\libraries\timer\drv_rtc.h \
  ../../../../../../modules/nrfx/hal/nrf_rtc.h

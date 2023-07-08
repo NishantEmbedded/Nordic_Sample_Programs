@@ -1,5 +1,5 @@
 Output/Release/Obj/CS_Sample_pca10040e_s112/main.o: \
- D:\Nishant\Samples_Programs\Sample_CS\examples\Sample_CS\Sample_CS\main.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Sample_CS\examples\Sample_CS\Sample_CS\main.c \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL_ConfDefaults.h \
@@ -94,12 +94,14 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/main.o: \
  ../../../../../../components/libraries/experimental_section_vars/nrf_section.h \
  ../../../../../../components/libraries/log/nrf_log_types.h \
  ../../../../../../components/libraries/sortlist/nrf_sortlist.h \
- ../../../../../../components/ble/ble_services/ble_lbs/ble_lbs.h \
  ../../../../../../components/ble/nrf_ble_gatt/nrf_ble_gatt.h \
  ../../../../../../components/ble/nrf_ble_qwr/nrf_ble_qwr.h \
  ../../../../../../components/libraries/pwr_mgmt/nrf_pwr_mgmt.h \
+ ../../../inc/CS_Service.h \
  ../../../../../../components/libraries/bsp/bsp.h \
  ../../../../../../components/libraries/button/app_button.h \
+ ../../../../../../components/libraries/bsp/bsp_btn_ble.h \
+ ../../../../../../components/libraries/bsp/bsp.h \
  ../../../../../../components/libraries/log/nrf_log.h \
  ../../../../../../components/libraries/strerror/nrf_strerror.h \
  ../../../../../../components/libraries/log/src/nrf_log_internal.h \
@@ -110,5 +112,4 @@ Output/Release/Obj/CS_Sample_pca10040e_s112/main.o: \
  ../../../../../../components/libraries/memobj/nrf_memobj.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdlib.h \
  ../../../../../../components/libraries/balloc/nrf_balloc.h \
- ../../../../../../components/libraries/log/nrf_log_default_backends.h \
- ../../../inc/CS_Service.h
+ ../../../../../../components/libraries/log/nrf_log_default_backends.h
