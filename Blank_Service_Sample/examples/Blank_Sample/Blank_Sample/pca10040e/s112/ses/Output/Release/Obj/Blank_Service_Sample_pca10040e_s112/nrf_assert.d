@@ -1,6 +1,6 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/nrf_assert.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\nrf_assert.c \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\nrf_assert.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\nrf_assert.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\nrf_assert.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL_ConfDefaults.h \
@@ -19,10 +19,10 @@ Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/nrf_assert.o: \
  ../../../../../../modules/nrfx/mdk/nrf52_to_nrf52810.h \
  ../../../../../../modules/nrfx/mdk/nrf52810_name_change.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\app_error.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdio.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdbool.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\sdk_errors.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\nordic_common.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\app_error_weak.h
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\nordic_common.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\app_error_weak.h

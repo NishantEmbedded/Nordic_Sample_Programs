@@ -1,5 +1,5 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/drv_rtc.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\timer\drv_rtc.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\timer\drv_rtc.c \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \

@@ -1,6 +1,6 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/app_util_platform.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\app_util_platform.c \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\app_util_platform.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\app_util_platform.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\app_util_platform.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL_ConfDefaults.h \
@@ -25,11 +25,11 @@ Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/app_util_platform.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error_soc.h \
  ../../../../../../components/softdevice/s112/headers/nrf_nvic.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\nrf_assert.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\app_error.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\nrf_assert.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdio.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdbool.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\sdk_errors.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\nordic_common.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\app_error_weak.h
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\nordic_common.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\app_error_weak.h

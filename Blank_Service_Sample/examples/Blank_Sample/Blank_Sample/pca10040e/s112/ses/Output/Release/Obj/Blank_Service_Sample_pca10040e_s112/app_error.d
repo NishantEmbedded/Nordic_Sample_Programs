@@ -1,5 +1,5 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/app_error.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\app_error.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\app_error.c \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52810.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -19,9 +19,9 @@ Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/app_error.o: \
  ../../../../../../modules/nrfx/mdk/nrf52810_name_change.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdio.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\app_error.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdbool.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\sdk_errors.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\sdk_errors.h \
  ../../../../../../components/softdevice/s112/headers/nrf_error.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\nordic_common.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\util\app_error_weak.h
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\nordic_common.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\util\app_error_weak.h

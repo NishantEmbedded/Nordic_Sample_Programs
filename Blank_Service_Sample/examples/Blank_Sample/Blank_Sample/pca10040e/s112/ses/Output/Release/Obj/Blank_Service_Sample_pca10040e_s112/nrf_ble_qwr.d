@@ -1,5 +1,5 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/nrf_ble_qwr.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\ble\nrf_ble_qwr\nrf_ble_qwr.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\ble\nrf_ble_qwr\nrf_ble_qwr.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
@@ -34,7 +34,7 @@ Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/nrf_ble_qwr.o: \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdlib.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\ble\nrf_ble_qwr\nrf_ble_qwr.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\ble\nrf_ble_qwr\nrf_ble_qwr.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/softdevice/s112/headers/ble.h \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \

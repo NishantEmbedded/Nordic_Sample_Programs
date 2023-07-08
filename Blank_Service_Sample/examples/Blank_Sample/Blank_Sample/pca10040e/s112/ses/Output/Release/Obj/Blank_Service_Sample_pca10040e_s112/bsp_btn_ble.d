@@ -1,6 +1,6 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/bsp_btn_ble.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\bsp\bsp_btn_ble.c \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\bsp\bsp_btn_ble.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\bsp\bsp_btn_ble.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\bsp\bsp_btn_ble.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL_ConfDefaults.h \
@@ -30,7 +30,7 @@ Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/bsp_btn_ble.o: \
  ../../../../../../modules/nrfx/mdk/nrf52810_name_change.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../components/softdevice/s112/headers/ble_gatts.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\bsp\bsp.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\bsp\bsp.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdbool.h \
  ../../../../../../components/boards/boards.h \
  ../../../../../../modules/nrfx/hal/nrf_gpio.h \

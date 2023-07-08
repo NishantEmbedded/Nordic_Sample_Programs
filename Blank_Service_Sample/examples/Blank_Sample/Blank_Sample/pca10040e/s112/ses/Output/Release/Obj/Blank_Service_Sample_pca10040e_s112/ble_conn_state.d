@@ -1,6 +1,6 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/ble_conn_state.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\ble\common\ble_conn_state.c \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\ble\common\ble_conn_state.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\ble\common\ble_conn_state.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\ble\common\ble_conn_state.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdbool.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \

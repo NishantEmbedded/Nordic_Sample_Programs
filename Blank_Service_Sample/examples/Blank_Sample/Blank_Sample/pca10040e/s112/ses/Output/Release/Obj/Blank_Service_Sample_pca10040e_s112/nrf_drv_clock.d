@@ -1,7 +1,7 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/nrf_drv_clock.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\integration\nrfx\legacy\nrf_drv_clock.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\integration\nrfx\legacy\nrf_drv_clock.c \
  ../../../../../../components/libraries/util/nordic_common.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\integration\nrfx\legacy\nrf_drv_clock.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\integration\nrfx\legacy\nrf_drv_clock.h \
  ../../../../../../modules/nrfx/drivers/include/nrfx_clock.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \

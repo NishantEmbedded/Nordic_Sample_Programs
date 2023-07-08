@@ -1,6 +1,6 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/nrf_drv_uart.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\integration\nrfx\legacy\nrf_drv_uart.c \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\integration\nrfx\legacy\nrf_drv_uart.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\integration\nrfx\legacy\nrf_drv_uart.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\integration\nrfx\legacy\nrf_drv_uart.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \

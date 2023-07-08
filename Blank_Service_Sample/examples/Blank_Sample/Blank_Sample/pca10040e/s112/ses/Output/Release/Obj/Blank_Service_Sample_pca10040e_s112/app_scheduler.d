@@ -1,5 +1,5 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/app_scheduler.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\scheduler\app_scheduler.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\scheduler\app_scheduler.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/__SEGGER_RTL.h \
@@ -33,7 +33,7 @@ Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/app_scheduler.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\libraries\scheduler\app_scheduler.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\libraries\scheduler\app_scheduler.h \
  ../../../../../../components/libraries/util/app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 7.10a/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \

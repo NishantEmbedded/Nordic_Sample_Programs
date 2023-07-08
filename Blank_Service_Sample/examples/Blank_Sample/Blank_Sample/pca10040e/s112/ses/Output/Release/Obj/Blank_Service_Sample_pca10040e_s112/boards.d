@@ -1,6 +1,6 @@
 Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/boards.o: \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\boards\boards.c \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\boards\boards.h \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\boards\boards.c \
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\boards\boards.h \
  ../../../../../../modules/nrfx/hal/nrf_gpio.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
@@ -57,4 +57,4 @@ Output/Release/Obj/Blank_Service_Sample_pca10040e_s112/boards.o: \
  ../../../../../../components/softdevice/s112/headers/nrf_sd_def.h \
  ../../../../../../components/softdevice/s112/headers/nrf_soc.h \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- D:\Nishant\Sample_Blinky\Blank_Service_Sample\components\boards\redicine_compact_nRF52810_board.h
+ D:\Nishant\GIT_DESK\Nordic_Sample_Programs\Blank_Service_Sample\components\boards\redicine_compact_nRF52810_board.h
