@@ -1,6 +1,5 @@
 # Nordic_Sample_Programs
-In this Repository having a 3 Sample programs.
+This Repository has 2 Sample programs in 2 branches.
 
 1)Blank Sample Program
-2)Sample_Blinky
-3)Sample_Custom_Service
+2)Sample_Custom_Service
