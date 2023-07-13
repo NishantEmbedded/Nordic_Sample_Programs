@@ -37,8 +37,8 @@
  * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
  */
-#ifndef REDICINE_H
-#define REDICINE_H
+#ifndef CUSTOM_H
+#define CUSTOM_H
 
 #ifdef __cplusplus
 extern "C"
@@ -47,58 +47,83 @@ extern "C"
 
 #include "nrf_gpio.h"
 
-// LEDs definitions for REDICINE
-#define LEDS_NUMBER 3
+// LEDs definitions for CUSTOM
+#define LEDS_NUMBER 5
 
-#define LED_START 28
-#define LED_1 29
-#define LED_2 28
-#define LED_3 30
-#define LED_STOP 30
+#define LED_START 4
+#define LED_1 4
+#define LED_2 8
+#define LED_3 7
+#define LED_4 6
+#define LED_5 5
+#define LED_STOP 8
 
 #define LEDS_ACTIVE_STATE 1
 
 #define LEDS_INV_MASK LEDS_MASK
 
-#define LEDS_LIST           \
-    {                       \
-        LED_1, LED_2, LED_3 \
+#define LEDS_LIST                         \
+    {                                     \
+        LED_1, LED_2, LED_3, LED_4, LED_5 \
     }
 
 #define BSP_LED_0 LED_1
 #define BSP_LED_1 LED_2
 #define BSP_LED_2 LED_3
+#define BSP_LED_3 LED_4
+#define BSP_LED_4 LED_5
 
-#define BUTTONS_NUMBER 2
+#define BUTTONS_NUMBER 8
 
-#define BUTTON_START 3
-#define BUTTON_1 3
-#define BUTTON_2 10
-#define BUTTON_STOP 10
+#define BUTTON_START 9
+#define BUTTON_1 21 // SW1
+#define BUTTON_2 13 // SW_IN1
+#define BUTTON_3 14 // SW_IN2
+#define BUTTON_4 10 // HALL SENSOR 0
+#define BUTTON_5 30 // HALL SENSOR 1
+#define BUTTON_6 29 // HALL SENSOR 2
+#define BUTTON_7 28 // HALL SENSOR 3
+#define BUTTON_8 9  // HALL SENSOR 4
+#define BUTTON_STOP 30
 #define BUTTON_PULL NRF_GPIO_PIN_PULLUP
 
 #define BUTTONS_ACTIVE_STATE 0
 
-#define BUTTONS_LIST       \
-    {                      \
-        BUTTON_1, BUTTON_2 \
+#define BUTTONS_LIST                                                                   \
+    {                                                                                  \
+        BUTTON_1, BUTTON_2, BUTTON_3, BUTTON_4, BUTTON_5, BUTTON_6, BUTTON_7, BUTTON_8 \
     }
 
 #define BSP_BUTTON_0 BUTTON_1
 #define BSP_BUTTON_1 BUTTON_2
+#define BSP_BUTTON_2 BUTTON_3
+#define BSP_BUTTON_3 BUTTON_4
+#define BSP_BUTTON_4 BUTTON_5
+#define BSP_BUTTON_5 BUTTON_6
+#define BSP_BUTTON_6 BUTTON_7
+#define BSP_BUTTON_7 BUTTON_8
 
-#define RX_PIN_NUMBER 8
-#define TX_PIN_NUMBER 6
+#define RX_PIN_NUMBER 15
+#define TX_PIN_NUMBER 16
 
-// Redicine Board Pins
-#define TWI_SCL_PIN 12 // SCL signal pin
-#define TWI_SDA_PIN 16 // SDA signal pin
-#define BATTERY_VOLTAGE_PIN NRF_SAADC_INPUT_AIN7
-#define BUZZER_PIN 5
-#define HALL_SENSOR_EN 9
+// Custom Board Pins
+#define TWI_SCL_PIN 2                            // SCL Signal Pin
+#define TWI_SDA_PIN 3                            // SDA Signal Pin
+#define BATTERY_VOLTAGE_PIN NRF_SAADC_INPUT_AIN7 // Battery ADC Voltage pin
+#define BUZZER_PIN 11                            // Buzzer Pin
+#define CHARGING_PIN 17                          // Charging Status Pin
+#define SENSOR_BOARD_EN 19                       // Sensor Board ON/OFF Control Pin
+
+// Display Pins
+#define DISPLAY_DC 22   // Data/Command Select Pin
+#define DISPLAY_RST 23  // Reset Pin
+#define DISPLAY_BUSY 24 // Busy Pin
+#define DISPLAY_SCK 25  // Clock Pin
+#define DISPLAY_SDI 26  // Master In Slave Out Pin
+#define DISPLAY_CS 27   // Chip Select Pin
 
 #ifdef __cplusplus
 }
 #endif
 
-#endif // REDICINE_H
+#endif // CUSTOM_H

@@ -59,18 +59,16 @@
   #include "pca10028.h"
 #elif defined(BOARD_PCA10031)
   #include "pca10031.h"
-#elif defined(BOARD_REDICINE_REMED_NEW)
-  #include "redicine_remed_board_new.h"
 #elif defined(BOARD_PCA10040)
   #include "pca10040.h"
-#elif defined(BOARD_REDICINE_COMPACT)
-  #include "redicine_compact_board.h"
-  #elif defined(BOARD_REDICINE_COMPACT_NRF52810)
-  #include "redicine_compact_nRF52810_board.h"
-  #elif defined(BOARD_REDICINE_COMPACT_NRF52832)
-  #include "redicine_compact_nRF52832_board.h"
-#elif defined(BOARD_PCA10056)
-  #include "pca10056.h"
+#elif defined(BOARD_CUSTOM_1)
+#include "Custom_1_board.h"
+#elif defined(BOARD_CUSTOM_2_NRF52810)
+#include "Custom_2_nRF52810_board.h"
+#elif defined(BOARD_CUSTOM_3_NRF52832)
+#include "Custom_3_nRF52832_board.h"
+#elif defined(BOARD_CUSTOM_4_NRF52832)
+#include "Custom_4_nRF52832_board.h"
 #elif defined(BOARD_PCA10100)
   #include "pca10100.h"
 #elif defined(BOARD_PCA10112)
