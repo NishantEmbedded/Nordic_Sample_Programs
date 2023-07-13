@@ -37,8 +37,8 @@
  * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
  */
-#ifndef REDICINE_H
-#define REDICINE_H
+#ifndef CUSTOM_H
+#define CUSTOM_H
 
 #ifdef __cplusplus
 extern "C"
@@ -47,7 +47,7 @@ extern "C"
 
 #include "nrf_gpio.h"
 
-// LEDs definitions for REDICINE
+// LEDs definitions for CUSTOM
 #define LEDS_NUMBER 3
 
 #define LED_START 14
@@ -92,7 +92,7 @@ extern "C"
 #define RX_PIN_NUMBER 8
 #define TX_PIN_NUMBER 9
 
-// Redicine Board Pins
+//CUSTOM  Board Pins
 #define TWI_SCL_PIN 12 // SCL signal pin
 #define TWI_SDA_PIN 10 // SDA signal pin
 #define BATTERY_VOLTAGE_PIN NRF_SAADC_INPUT_AIN4
@@ -103,4 +103,4 @@ extern "C"
 }
 #endif
 
-#endif // REDICINE_H
+#endif // CUSTOM_H

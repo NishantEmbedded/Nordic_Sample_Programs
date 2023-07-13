@@ -41,8 +41,8 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="11" y="62" useTextEdit="1" path="../../../main.c" left="0" selected="1" top="50" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="25" y="55" useTextEdit="1" path="../../../main.c" left="0" selected="1" top="40" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="19" y="51" useTextEdit="1" path="../config/sdk_config.h" left="0" top="40" codecName="Default"/>
  </Files>
- <EMStudioWindow activeProject="CS_Sample_pca10040_s132" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="D:/Nishant/GIT_DESK/Nordic_Sample_Programs/Blank_Service_Sample/components/libraries/bsp" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <EMStudioWindow activeProject="Blank_Service_Sample_pca10040_s132" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="D:/Nishant/GIT_DESK/Nordic_Sample_Programs/Blank_Service_Sample/components/libraries/bsp" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

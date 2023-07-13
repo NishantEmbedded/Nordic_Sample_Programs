@@ -83,8 +83,9 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="262" useTextEdit="1" path="../../../main.c" left="0" selected="1" top="250" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="183" y="90" useTextEdit="1" path="../../../main.c" left="100" selected="1" top="81" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="57" useTextEdit="1" path="../config/sdk_config.h" left="0" top="39" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="26" y="25" useTextEdit="1" openedFrom="D:/Nishant/GIT_DESK/Nordic_Sample_Programs/Blank_Service_Sample/examples/Blank_Sample/Blank_Sample/main.c" path="../../../../../../components/boards/Custom_board_2_nRF52810_board.h" left="0" top="13" codecName="Default"/>
  </Files>
  <EMStudioWindow activeProject="Blank_Service_Sample_pca10040e_s112" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="D:/Nishant/CS_SAMPLE/components/ble/ble_advertising" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
